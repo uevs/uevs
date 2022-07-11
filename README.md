@@ -1,13 +1,13 @@
 ### Hello 👋
 
-Hi, I’m Leonardo a **product manager** that is learning to **code**. 
+Hi, I’m Leonardo a **product-minded iOS Developer**. 
 
-I'm attending Apple Developer Academy @Unina where I'm learning iOS development with Swift. Before this experience I worked as a product manager for an **indie tabletop games studio**, developing games and launching them on Kickstarter raising more than **$1.4 million**. Prior to that, I worked as marketing manager for a couple of other startups.
+During the last year I led two teams to create **two apps now available on App Store**: [Litt](https://apps.apple.com/app/litt/id1628751457) and [Dotillism](https://apps.apple.com/app/dotillism/id1611775193). The development of these apps allowed me to gain experience building real products that users are now enjoying.
 
-I’m passionate about **photography** and I have a **degree in communications and media studies**. My background is geared more toward creativity, both with words and visual media. Even if my career shifted toward business and tech, I still bring to the table my creative background and inclination.
+Beside these two apps in which I contributed to the code along with other peers, I also developed many prototypes by myself to further learn iOS development. 
 
-During the Academy, besides learning coding fundamentals, I was able to approach many interesting aspects of iOS development: [AR](https://github.com/uevs/ARound), [Swift on Server and Vapor](https://github.com/uevs/GoodVibes), and game development. At the Academy there is also a strong focus on improving soft skills, creativity and learning to apply a design thinnking approach.
+Most noticeably I created [Good Vibes](https://github.com/uevs/GoodVibes), an app that connects to a Vapor server hosted on Heroku via custom REST APIs. I also built [XKCD Reader](https://github.com/uevs/XKCD-Reader), an app that connects to the official APIs to fetch and display the comics. [Place ARound](https://github.com/uevs/ARound) is instead an AR app built to learn about ARkit and RealityKit. 
 
-Dotillism is a casual zen game that I created with [@seldon1000](https://github.com/seldon1000/) at the Academy, is available for free on [App Store](https://apps.apple.com/it/app/dotillism/id1611775193) and is built entirely with SwiftUI.
+I'm also among the winners of the **WWDC22 Swift Challenge**.
 
 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/leonardobertinelli/).
