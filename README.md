@@ -6,7 +6,7 @@ During the last year I led two teams to create **two apps now available on App S
 
 Beside these two apps in which I contributed to the code along with other peers, I also developed many prototypes by myself to further learn iOS development. 
 
-Most noticeably I created [Good Vibes](https://github.com/uevs/GoodVibes), an app that connects to a Vapor server hosted on Heroku via custom REST APIs. I also built [XKCD Reader](https://github.com/uevs/XKCD-Reader), an app that connects to the official APIs to fetch and display the comics. [Place ARound](https://github.com/uevs/ARound) is instead an AR app built to learn about ARkit and RealityKit. 
+Most noticeably I created [XKCD Reader](https://github.com/uevs/XKCD-Reader), an app that connects to the official APIs to fetch and display the comics. I also built [Good Vibes](https://github.com/uevs/GoodVibes), an app that connects to a Vapor server hosted on Heroku via custom REST APIs. [Place ARound](https://github.com/uevs/ARound) is instead an AR app built to learn about ARkit and RealityKit. 
 
 I'm also among the winners of the **WWDC22 Swift Challenge**.
 
