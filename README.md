@@ -1,6 +1,6 @@
 ### Hello 👋
 
-Hi, I’m Leonardo a **product-minded iOS Developer** working at Blinkist. 
+Hi, I’m Leonardo a **product-minded iOS Developer** working at Revolut. Previously working at Blinkist. 
 
 Check out these apps that I co-founded: 
 * [Sunlitt](https://apps.apple.com/app/litt/id1628751457)  **Apple Design Awards Finalist** in 2024
